@@ -1,0 +1,8 @@
+ls; if [[ "$?" = 0 ]]; then echo ':)'; else echo ':('; fi
+linux  linux-2.6.34-gentoo-r1  linux-2.6.34-gentoo-r5  linux-2.6.35-gentoo-r1  linux-2.6.35-gentoo-r2  snort_dynamicsrc
+:)
+
+rm; if [[ "$?" = 0 ]]; then echo ':)'; else echo ':('; fi
+rm: missing operand
+Try `rm --help' for more information.
+:(
